@@ -1,1 +1,1 @@
-# TT_bluepill
+# Test Task Blue Pill board
